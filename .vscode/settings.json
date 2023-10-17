@@ -1,0 +1,7 @@
+{
+  "makefile.extensionOutputFolder": "./.vscode",
+  "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools",
+  "files.associations": {
+    "c_dynamic_arrays_macros.h": "c"
+  }
+}
