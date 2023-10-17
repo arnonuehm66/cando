@@ -35,7 +35,6 @@
 #include <linux/can.h>
 //#include <linux/can/raw.h>
 
-#include "c_dynamic_arrays_macros.h"
 #include "c_string.h"
 
 
@@ -63,9 +62,6 @@ typedef struct s_can {
   int                 iErr;
   cstr                csErr;
 } t_can;
-
-// For the payload data.
-s_array(__u8);
 
 
 //******************************************************************************
