@@ -45,7 +45,7 @@ void readTest(void) {
 
   while(1) {
   if (canRead(&canMan) == C_CANNED_ERR) {
-    csSetf(&csErr, "Error while opening socket: %s", canMan.csErr.cStr);
+    csSetf(&csErr, "Error while reading from socket: %s", canMan.csErr.cStr);
     perror(csErr.cStr);
     exit(canMan.iErr);
   }
