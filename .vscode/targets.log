@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Tue Oct 17 09:22:27 2023
+# Make data base, printed on Sun Oct 22 09:24:05 2023
 
 # Variables
 
@@ -89,7 +89,7 @@ APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
 # environment
 MFLAGS = -pqrR
 # environment
-SSH_AUTH_SOCK = /tmp/ssh-XXXXXXTED2G6/agent.876
+SSH_AUTH_SOCK = /tmp/ssh-XXXXXXMjFi51/agent.856
 # default
 .SHELLFLAGS := -c
 # environment
@@ -105,7 +105,7 @@ MAKEFILE_LIST := Makefile
 # automatic
 @F = $(notdir $@)
 # environment
-VSCODE_PID = 1791
+VSCODE_PID = 1516
 # environment
 XDG_SESSION_TYPE = x11
 # automatic
@@ -117,7 +117,7 @@ CSF_XSMessage = /usr/share/opencascade/resources/XSMessage
 # environment
 DRAWDEFAULT = /usr/share/opencascade/resources/DrawResources/DrawDefault
 # environment
-SESSION_MANAGER = local/pinebookpro64:@/tmp/.ICE-unix/811,unix/pinebookpro64:/tmp/.ICE-unix/811
+SESSION_MANAGER = local/pinebookpro64:@/tmp/.ICE-unix/772,unix/pinebookpro64:/tmp/.ICE-unix/772
 # automatic
 *F = $(notdir $*)
 # environment
@@ -211,7 +211,7 @@ MAKE_VERSION := 4.4.1
 # environment
 LC_MEASUREMENT = de_DE.UTF-8
 # environment
-SSH_AGENT_PID = 877
+SSH_AGENT_PID = 857
 # environment
 _ = /usr/bin/make
 # environment
@@ -275,14 +275,13 @@ LC_IDENTIFICATION = de_DE.UTF-8
 
 # Directories
 
-# . (device 45922, inode 571713): 11 files, no impossibilities.
+# . (device 45922, inode 571713): 12 files, no impossibilities.
 
-# 11 files, no impossibilities in 1 directories.
+# 12 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
 # No implicit rules.
- 
 
 # Files
 
@@ -343,12 +342,12 @@ cando: main.c
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / strings = 20 / storage = 188 B / avg = 9 B
-# current buf: size = 8162 B / used = 188 B / count = 20 / avg = 9 B
+# strcache buffers: 1 (0) / strings = 21 / storage = 177 B / avg = 8 B
+# current buf: size = 8162 B / used = 177 B / count = 21 / avg = 8 B
 
-# strcache performance: lookups = 28 / hit rate = 28%
+# strcache performance: lookups = 29 / hit rate = 27%
 # hash-table stats:
-# Load=20/8192=0%, Rehash=0, Collisions=0/28=0%
-# Finished Make data base on Tue Oct 17 09:22:27 2023
+# Load=21/8192=0%, Rehash=0, Collisions=0/29=0%
+# Finished Make data base on Sun Oct 22 09:24:05 2023
 
  

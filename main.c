@@ -34,8 +34,8 @@ void writeTest(void) {
 }
 
 void readTest(void) {
-  t_can   canMan = {0};
-  cstr    csErr  = csNew("");
+  t_can canMan = {0};
+  cstr  csErr  = csNew("");
 
   if (canNew(&canMan, "vcan0") == C_CANNED_ERR) {
     csSetf(&csErr, "Error while opening socket: %s", canMan.csErr.cStr);
