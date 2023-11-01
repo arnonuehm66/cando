@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Sun Oct 22 09:24:05 2023
+# Make data base, printed on Wed Nov  1 10:12:57 2023
 
 # Variables
 
@@ -89,7 +89,7 @@ APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
 # environment
 MFLAGS = -pqrR
 # environment
-SSH_AUTH_SOCK = /tmp/ssh-XXXXXXMjFi51/agent.856
+SSH_AUTH_SOCK = /tmp/ssh-XXXXXX8dlkOg/agent.865
 # default
 .SHELLFLAGS := -c
 # environment
@@ -105,7 +105,7 @@ MAKEFILE_LIST := Makefile
 # automatic
 @F = $(notdir $@)
 # environment
-VSCODE_PID = 1516
+VSCODE_PID = 4344
 # environment
 XDG_SESSION_TYPE = x11
 # automatic
@@ -117,7 +117,7 @@ CSF_XSMessage = /usr/share/opencascade/resources/XSMessage
 # environment
 DRAWDEFAULT = /usr/share/opencascade/resources/DrawResources/DrawDefault
 # environment
-SESSION_MANAGER = local/pinebookpro64:@/tmp/.ICE-unix/772,unix/pinebookpro64:/tmp/.ICE-unix/772
+SESSION_MANAGER = local/pinebookpro64:@/tmp/.ICE-unix/801,unix/pinebookpro64:/tmp/.ICE-unix/801
 # automatic
 *F = $(notdir $*)
 # environment
@@ -211,7 +211,7 @@ MAKE_VERSION := 4.4.1
 # environment
 LC_MEASUREMENT = de_DE.UTF-8
 # environment
-SSH_AGENT_PID = 857
+SSH_AGENT_PID = 866
 # environment
 _ = /usr/bin/make
 # environment
@@ -280,6 +280,7 @@ LC_IDENTIFICATION = de_DE.UTF-8
 # 12 files, no impossibilities in 1 directories.
 
 # Implicit Rules
+ 
 
 # No implicit rules.
 
@@ -348,6 +349,6 @@ cando: main.c
 # strcache performance: lookups = 29 / hit rate = 27%
 # hash-table stats:
 # Load=21/8192=0%, Rehash=0, Collisions=0/29=0%
-# Finished Make data base on Sun Oct 22 09:24:05 2023
+# Finished Make data base on Wed Nov  1 10:12:57 2023
 
  
