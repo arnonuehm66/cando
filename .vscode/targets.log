@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Wed Nov  1 10:12:57 2023
+# Make data base, printed on Sat Nov 11 18:31:35 2023
 
 # Variables
 
@@ -65,7 +65,7 @@ XDG_DATA_DIRS = /usr/local/share:/usr/share
 # automatic
 %F = $(notdir $%)
 # environment
-VSCODE_CODE_CACHE_PATH = /home/jens/.config/Code/CachedData/f1b07bd25dfad64b0167beb15359ae573aecd2cc
+VSCODE_CODE_CACHE_PATH = /home/jens/.config/Code/CachedData/1a5daa3a0231a0fbba4f14db7ec463cf99d7768e
 # environment
 XDG_SESSION_PATH = /org/freedesktop/DisplayManager/Session0
 # environment
@@ -89,7 +89,7 @@ APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
 # environment
 MFLAGS = -pqrR
 # environment
-SSH_AUTH_SOCK = /tmp/ssh-XXXXXX8dlkOg/agent.865
+SSH_AUTH_SOCK = /tmp/ssh-XXXXXX874fVi/agent.835
 # default
 .SHELLFLAGS := -c
 # environment
@@ -105,7 +105,7 @@ MAKEFILE_LIST := Makefile
 # automatic
 @F = $(notdir $@)
 # environment
-VSCODE_PID = 4344
+VSCODE_PID = 21539
 # environment
 XDG_SESSION_TYPE = x11
 # automatic
@@ -117,7 +117,7 @@ CSF_XSMessage = /usr/share/opencascade/resources/XSMessage
 # environment
 DRAWDEFAULT = /usr/share/opencascade/resources/DrawResources/DrawDefault
 # environment
-SESSION_MANAGER = local/pinebookpro64:@/tmp/.ICE-unix/801,unix/pinebookpro64:/tmp/.ICE-unix/801
+SESSION_MANAGER = local/pinebookpro64:@/tmp/.ICE-unix/754,unix/pinebookpro64:/tmp/.ICE-unix/754
 # automatic
 *F = $(notdir $*)
 # environment
@@ -211,7 +211,7 @@ MAKE_VERSION := 4.4.1
 # environment
 LC_MEASUREMENT = de_DE.UTF-8
 # environment
-SSH_AGENT_PID = 866
+SSH_AGENT_PID = 836
 # environment
 _ = /usr/bin/make
 # environment
@@ -235,7 +235,7 @@ ELECTRON_RUN_AS_NODE = 1
 # environment
 DRAWHOME = /usr/share/opencascade/resources/DrawResources
 # environment
-VSCODE_IPC_HOOK = /run/user/1000/vscode-3e620d04-1.83-main.sock
+VSCODE_IPC_HOOK = /run/user/1000/vscode-3e620d04-1.84-main.sock
 # environment
 XDG_SESSION_ID = 2
 # environment
@@ -275,12 +275,11 @@ LC_IDENTIFICATION = de_DE.UTF-8
 
 # Directories
 
-# . (device 45922, inode 571713): 12 files, no impossibilities.
+# . (device 45922, inode 571713): 13 files, no impossibilities.
 
-# 12 files, no impossibilities in 1 directories.
+# 13 files, no impossibilities in 1 directories.
 
 # Implicit Rules
- 
 
 # No implicit rules.
 
@@ -343,12 +342,12 @@ cando: main.c
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / strings = 21 / storage = 177 B / avg = 8 B
-# current buf: size = 8162 B / used = 177 B / count = 21 / avg = 8 B
+# strcache buffers: 1 (0) / strings = 22 / storage = 191 B / avg = 8 B
+# current buf: size = 8162 B / used = 191 B / count = 22 / avg = 8 B
 
-# strcache performance: lookups = 29 / hit rate = 27%
+# strcache performance: lookups = 30 / hit rate = 26%
 # hash-table stats:
-# Load=21/8192=0%, Rehash=0, Collisions=0/29=0%
-# Finished Make data base on Wed Nov  1 10:12:57 2023
+# Load=22/8192=0%, Rehash=0, Collisions=0/30=0%
+# Finished Make data base on Sat Nov 11 18:31:35 2023
 
  
